@@ -1,4 +1,4 @@
-# summer-school-online-day-6
+
 # React To-Do App ✅
 
 A simple and modern to-do list built with React. Add, check off, and delete tasks easily.
